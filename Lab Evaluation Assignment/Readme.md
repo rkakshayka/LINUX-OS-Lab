@@ -1,6 +1,6 @@
 Operating Systems laboratory
 ======================================
-To run these you can clone the code in your Local or VirtualMachine(Linux) as follows: 
+To run these program you can clone the code in your Local or VirtualMachine(Linux) as follows: 
 ```
 git clone https://github.com/rkakshayka/LINUX-OS-Lab.git
 ```
@@ -9,7 +9,7 @@ Assignment Questions Commands for Output
 [Note:- You must have ubuntu or Linux OS to run these programs]
 ```
  To edit the code of any program given in this Repository. The Terminal Command used 
- ```Ex:-  gedit filename.c```
+ __*``` Ex:- gedit filename.c ```*__
  After edit the code you must close that file with proper saving.
 ```
 1. Write a program which will read first 8 characters of a file and display the output on screen.
