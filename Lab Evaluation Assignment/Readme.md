@@ -10,7 +10,7 @@ Assignment Questions Commands for Output
 ```
  To edit the code of any program given in this Repository. The Terminal Command used 
  ```
-    Ex:-  gedit filename.c
+   Ex:-  gedit filename.c
  ```
  After edit the code you must close that file with proper saving.
 ```
