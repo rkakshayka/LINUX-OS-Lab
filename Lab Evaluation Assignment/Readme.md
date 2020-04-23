@@ -9,8 +9,9 @@ Assignment Questions Commands for Output
 [Note:- You must have ubuntu or Linux OS to run these programs]
 ```
  To edit the code of any program given in this Repository. The Terminal Command used 
- ** Ex:- gedit filename.c **
- After edit the code you must close that file with proper saving.
+  Ex:- gedit filename.c 
+  
+ After edit code, must close that file with proper saving.
 ```
 1. Write a program which will read first 8 characters of a file and display the output on screen.
 ```
